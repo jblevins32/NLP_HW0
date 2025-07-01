@@ -1,0 +1,10 @@
+torch
+transformers
+sentence-transformers
+datasets
+huggingface_hub
+pandas
+numpy
+tqdm
+nltk
+bitsandbytes
